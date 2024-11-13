@@ -1,0 +1,36 @@
+Pais,IdPais,Continente,PaisesIngles
+Africa,1,Africa,
+Africa u Oceania,2,Oceania,
+Alemania,3,Europa,Germany
+Argentina,4,America del Sur,Argentina
+Asia del Este y Pacifico,5,Asia,
+Asia Meridional,6,Asia,
+Bolivia,7,America del Sur,Bolivia
+Brasil,8,America del Sur,Brazil
+Canada,9,America del Norte,Canada
+Centro y Norte America,10,America del Norte,
+Chile,11,America del Sur,Chile
+China,12,Asia,China
+Colombia,13,America del Sur,Colombia
+Cuba,14,America Central,Cuba
+Ecuador,15,America del Sur,Ecuador
+EE.UU.,16,America del Norte,United States of America
+España,17,Europa,Spain
+Europa,18,Europa,
+Francia,19,Europa,France
+Gran Bretaña,20,Europa,United Kingdom
+Israel,21,Asia,Israel
+Italia,22,Europa,Italy
+Japon,23,Asia,Japan
+Mexico,24,America del Norte,Mexico
+Oriente Medio,25,Asia,
+Otro de America,26,America Central,
+Otro de Europa,27,Europa,
+Otro pais de Asia,28,Asia,
+Paraguay,29,America del Sur,Paraguay
+Peru,30,America del Sur,Peru
+Resto Sud America,31,America del Sur,
+Suecia,32,Europa,Sweden
+Suiza,33,Europa,Switzerland
+Uruguay,34,America del Sur,Uruguay
+Venezuela,35,America del Sur,Venezuela
